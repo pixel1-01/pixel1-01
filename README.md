@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Jarvis<br>🤝 I’m looking for help with Web development<br>🌱 I’m currently learning MERN stack<br>💬 Don't hesitate to reach out if you got some really cool project ideas<br>or anything remotely related to robotics.<br>⚡ Fun fact: it will work out. don't worry.
+🔭 I’m currently learning cybersecuirity, out of pure impulse.<br>🤝 I’m looking for help with Web development<br>🌱 I’m currently learning MERN stack<br>💬 Don't hesitate to reach out if you got some really cool project ideas<br>or anything remotely related to robotics.<br>⚡ Fun fact: it will work out. don't worry.
 
 
 # 💻 Tech Stack:
